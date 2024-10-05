@@ -1,8 +1,7 @@
 {
-  "name": "miappcontrolpersonal",
+  "name": "MiAppControlPersonal",
   "integrations": {
     "capacitor": {}
   },
-  "type": "react"
+  "type": "react-vite"
 }
-
